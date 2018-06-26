@@ -31,7 +31,11 @@ sr.reveal('.info-right', {
   origin:'right',
   viewFactor: 0.2
 });
-
+sr.reveal('#logos', {
+  duration: 2000,
+  origin:'bottom',
+  viewFactor: 0.2
+});
 sr.reveal('.portfolio', {
   duration: 2000,
   origin:'bottom',
