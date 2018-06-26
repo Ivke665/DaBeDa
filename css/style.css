@@ -44,6 +44,7 @@ p {
 }
 .navbar {
   font-family: Poppins;
+  opacity: 0.9! important;
 }
 #showcase .showcase-left img {
   max-width: 100%;
